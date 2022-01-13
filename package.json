@@ -1,0 +1,21 @@
+{
+  "name": "com.unity.liaoxxpackage",
+  "version": "1.0.1",
+  "displayName": "LiaoxxPackage",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Liaoxx",
+    "email": "499767262@qq.com",
+    "url": "https://www.unity3d.com"
+  }
+}
